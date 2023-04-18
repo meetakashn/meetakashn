@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/meetakashn" target="blank"><img src="https://img.shields.io/twitter/follow/meetakashn?logo=twitter&style=for-the-badge" alt="meetakashn" /></a> </p>
 
-- 🌱 I’m currently learning **UI design,Full Stack Development**
+- 🌱 I’m currently learning **UI design,Full Stack Development,App Development**
 
 - 📝 I regularly write articles on [https://sportsnewsak.blogspot.com/](https://sportsnewsak.blogspot.com/)
 
