@@ -5,9 +5,18 @@
 <img align="left" width=100 alt="Coding1" src="https://camo.githubusercontent.com/389473b02605c9c663fac86185901047a8fbfb860926316a8b7bf791ebb97682/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d656574616b6173686e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/>
 
 <h3 align="left">💫About Me:</h3>
-<br>
-🌱 I’m currently learning Full Stack Development,App Development,Blockchain<br><br>📝 I regularly write articles on https://sportsnewsak.blogspot.com/<br><br>💬 Ask me about Java,python,graphic design<br><br>📫 How to reach me akashmudaliyar2@gmail.com<br><br>⚡ Fun fact I am Too lazy<br>
-<h4 align="left">🤵 Here's my <a href="https://drive.google.com/file/d/1ULE9g0ajDuss8pI4yDmw_EGIhNXdgSg-/view?usp=drivesdk">Resume</a></h4><br>
+- 🌱 I’m currently learning Full Stack Development,App Development,Blockchain
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/meetakashn)
+
+- 📝 I regularly write articles on [BlogSpot](https://sportsnewsak.blogspot.com/)
+
+- 💬 Ask me about **Java,python,graphic design,Android App development**
+
+- 📫 How to reach me **akashmudaliyar2@gmail.com**
+
+- ⚡ Fun fact **I am Too lazy**
+<h4 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1ULE9g0ajDuss8pI4yDmw_EGIhNXdgSg-/view?usp=drivesdk">Resume</a></h4><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meetakashn" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="meetakashn" height="40" width="40" /></a>
@@ -33,7 +42,8 @@
 </div>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=meetakashn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=meetakashn&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meetakashn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetakashn&show_icons=true&locale=en&layout=compact" alt="meetakashn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetakashn&show_icons=true&locale=en" alt="meetakashn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetakashn&" alt="meetakashn" /></p>
