@@ -16,7 +16,7 @@
 - 📫 How to reach me **akashmudaliyar2@gmail.com**
 
 - ⚡ Fun fact **I am Too lazy**
-<h4 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1Xun6hiQrOxWCle5s-KPf8Qg0THAAkm47/view?usp=sharing">Resume</a></h4><br>
+<h4 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1-pSTZGXqvcfRX7R3sVhkOJsdqZq8ZfHk/view?usp=sharing">Resume</a></h4><br>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/meetakashn" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="meetakashn" height="40" width="40" /></a>
