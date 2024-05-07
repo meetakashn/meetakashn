@@ -4,7 +4,7 @@
 <img align="right" width=200 alt="Coding1" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"/>
 
 <h3 align="left">💫About Me:</h3>
-- 🌱 I’m currently learning Full Stack Development,App Development,Blockchain
+- 🌱 I’m currently learning App Development,Blockchain
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/meetakashn)
 
