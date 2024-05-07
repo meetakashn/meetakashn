@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash NM</h1>
 <h4 align="center">Graduated at <a href="https://www.srmist.edu.in/">SRM University</a></h4>
-<img align="right" width=400 alt="Coding" src="https://tenor.com/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238"/>
 
-<img align="left" width=100 alt="Coding1" src="https://camo.githubusercontent.com/389473b02605c9c663fac86185901047a8fbfb860926316a8b7bf791ebb97682/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d656574616b6173686e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/>
+<img align="right" width=200 alt="Coding1" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"/>
 
 <h3 align="left">💫About Me:</h3>
 - 🌱 I’m currently learning Full Stack Development,App Development,Blockchain
