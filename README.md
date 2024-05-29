@@ -1,52 +1,79 @@
-<h1 align="center">Hi 👋, I'm Akash NM</h1>
-<h4 align="center">Graduated at <a href="https://www.srmist.edu.in/">SRM University</a></h4>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akash NM
+================================================================================================================================
 
-<img align="right" width=200 alt="Coding1" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"/>
+M.C.A | Java & Flutter Developer | Seeking Opportunities in App Development | YouTuber
+--------------------------------------------------------------------------------------
 
-<h3 align="left">💫About Me:</h3>
-- 🌱 I’m currently learning App Development,Blockchain
+Results-driven M.C.A student from S.R.M University passionate about developing user-friendly applications. Excellent problem-solving skills and ability to perform well in a team. Seeking to help Company and develop their product as a Developer, as well as grow and develop my own skills as a coder Let's connect and explore opportunities for collaboration and growth! 🌟
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/meetakashn)
-
-- 📝 I regularly write articles on [BlogSpot](https://sportsnewsak.blogspot.com/)
-
-- 💬 Ask me about **Java, python, graphic design, App development**
-
-- 📫 How to reach me **akashmudaliyar2@gmail.com**
-
-- ⚡ Fun fact **I am Too lazy**
-<h4 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1-pSTZGXqvcfRX7R3sVhkOJsdqZq8ZfHk/view?usp=sharing">Resume</a></h4><br>
-<h3 align="left">Connect with me</h3>
+*   🌍  I'm based in Mumbai
+*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/meetakashn/)
+*   ✉️  You can contact me at [akashmudaliyar2@gmail.com](mailto:akashmudaliyar2@gmail.com)
+*   🚀  I'm currently working on [Paisa Pulse](http://www.amazon.com/gp/product/B0D497SNS5)
+*  🧠  I'm learning Web & Blockchain
+  <a href="https://www.github.com/meetakashn" target="_blank" rel="noreferrer">
+<img
+                  src="https://img.shields.io/github/followers/meetakashn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br><br>
+                  <h2><b>Skills</b></h2>
 <p align="left">
-<a href="https://twitter.com/meetakashn" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="meetakashn" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/meetakashn" target="blank"><img align="center" src="https://png.pngtree.com/element_our/sm/20180626/sm_5b321c9756fc6.jpg" alt="meetakashn" height="40" width="40" /></a>
-<a href="https://fb.com/meetakashn" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-facebook-social-media-icon-png-image_6315968.png" alt="meetakashn" height="40" width="40" /></a>
-<a href="https://instagram.com/meet_akash_n" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="meet_akash_n" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@meetakashn" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-round-icon-png-image_6315993.png" alt="meetakashn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/meetakashn" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/527/685/png-transparent-hackerrank-programmer-computer-programming-logo-java-hackerrank-angle-trademark-logo-thumbnail.png" alt="meetakashn" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/meetakashn" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="meetakashn" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/meetakashn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="meetakashn" height="30" width="40" /></a>
-</p>
-<h3 align="left">Language</h3>
-<div align="left">
-  <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" height="40" width="40" alt="python logo"  />
-  <img src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" height="40" width="40" alt="java logo"  />
-  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" height="40" width="40" alt="c++ logo"  />
-   <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" height="40" width="40" alt="c logo"  />
-  <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" height="40" width="40" alt="android logo"  />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" height="40" width="40" alt="r logo"  />
-  <img src="https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text-thumbnail.png" height="40" width="40" alt="javascript logo"  />
-   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="40" width="40" alt="mongodb logo"  />  
-</div>
-<h3 align="left">Design</h3>
-<div align="left">
- <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" height="40" width="40" alt="photoshop logo" />
- <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="40" width="40" alt="canva logo"  />
- <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png" height="40" width="40" alt="premiere logo"  />
-</div>
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetakashn&show_icons=true&locale=en&layout=compact" alt="meetakashn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetakashn&show_icons=true&locale=en" alt="meetakashn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetakashn&" alt="meetakashn" /></p>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+                    </p>
+                  
+<p align="left">
+  <h2><b>Social handle</b></h2>
+                      <a href="https://discord.com/users/meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.facebook.com/meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.youtube.com/@meetakashn" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
+                    <b>My GitHub Stats</b> <br>
+                    <a
+                      href="http://www.github.com/meetakashn"><img src="https://github-readme-stats.vercel.app/api?username=meetakashn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="meetakashn's GitHub stats" /></a>
+                    <a
+                      href="http://www.github.com/meetakashn"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=meetakashn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+                  <a href="https://github.com/meetakashn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetakashn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
