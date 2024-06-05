@@ -10,7 +10,7 @@ Results-driven M.C.A student from S.R.M University passionate about developing u
 *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/meetakashn/) [Website](https://meetakashn.github.io/portfolio/)
 *   ✉️  You can contact me at [akashmudaliyar2@gmail.com](mailto:akashmudaliyar2@gmail.com)
 *   🚀  I'm currently working on [Paisa Pulse](http://www.amazon.com/gp/product/B0D497SNS5)
-*  🧠  I'm learning Web & Blockchain
+*  🧠  I'm learning Web & Blockchain Development
   <a href="https://www.github.com/meetakashn" target="_blank" rel="noreferrer">
 <img
                   src="https://img.shields.io/github/followers/meetakashn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br><br>
