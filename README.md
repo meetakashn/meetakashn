@@ -7,7 +7,7 @@ M.C.A | Java & Flutter Developer | Seeking Opportunities in App Development | Yo
 Results-driven M.C.A student from S.R.M University passionate about developing user-friendly applications. Excellent problem-solving skills and ability to perform well in a team. Seeking to help Company and develop their product as a Developer, as well as grow and develop my own skills as a coder Let's connect and explore opportunities for collaboration and growth! 🌟
 
 *   🌍  I'm based in Mumbai
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/meetakashn/) [Website](https://meetakashn.github.io/portfolio/homepage.html)
+*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/meetakashn/) [Website](https://meetakashn.github.io/portfolio/)
 *   ✉️  You can contact me at [akashmudaliyar2@gmail.com](mailto:akashmudaliyar2@gmail.com)
 *   🚀  I'm currently working on [Paisa Pulse](http://www.amazon.com/gp/product/B0D497SNS5)
 *  🧠  I'm learning Web & Blockchain
