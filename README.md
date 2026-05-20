@@ -2,7 +2,7 @@
 
 ### M.C.A Student @ S.R.M University | Java & Flutter Developer | YouTuber
 
-A results-driven developer passionate about building intuitive, user-friendly mobile and web applications. Specializing in cross-platform mobile development with Flutter and robust backend logic with Java. I enjoy solving complex problems, writing clean architecture, and collaborating with teams to take products from concept to deployment. 
+A results-driven developer passionate about building intuitive, user-friendly mobile and web applications. Specializing in cross-platform mobile development with Flutter and robust backend logic with Java. I enjoy solving complex problems, writing clean architecture, and collaborating with clients and teams to take products from concept to deployment. 
 
 ---
 
@@ -39,6 +39,19 @@ A results-driven developer passionate about building intuitive, user-friendly mo
 *   **Independent Application Developer:** Architected, developed, and successfully published production-ready mobile applications to third-party app marketplaces.
 *   **Content Creator / Educator:** Scripting, editing, and publishing software development tutorials on YouTube, breaking down complex Dart, Flutter, and Java concepts for thousands of learners.
 *   **Open Source Contributor:** Actively building and hosting open-source applications via GitHub Pages, maintaining clean git version histories, and managing multi-branch deployment pipelines (`main` & `gh-pages`).
+
+---
+
+### 🛠️ Freelance Services
+
+Looking to bring an app idea to life or need technical assistance? I am available for freelance contracts and remote projects:
+
+*   📱 **Cross-Platform Mobile App Development:** Building stunning, high-performance Android and iOS applications from scratch using Flutter and Dart.
+*   ⚡ **Backend & API Integration:** Implementing secure database architectures, user authentication, and real-time data sync using Firebase and Java backends.
+*   🎨 **UI/UX to Code Conversion:** Transforming Figma or Photoshop prototypes into pixel-perfect, responsive, and interactive code.
+*   🔒 **App Optimization & Security:** Enhancing existing codebases, improving app performance, and implementing secure local data storage solutions.
+
+> 📬 **Have a project in mind?** Let's discuss your requirements! Drop me an email at **[akashmudaliyar2@gmail.com](mailto:akashmudaliyar2@gmail.com)** or connect on **[LinkedIn](http://www.linkedin.com/in/meetakashn/)**.
 
 ---
 
